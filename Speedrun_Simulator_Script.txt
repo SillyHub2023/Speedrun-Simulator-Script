@@ -1,0 +1,2 @@
+--SPEEDRUN SIMULATOR!
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Nalaiko40/Silly-Hub-Speed-Run-Simulator/main/srs.lua'))()
